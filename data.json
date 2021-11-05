@@ -1,0 +1,82 @@
+{
+    "Action-1": {
+        "cost": 20,
+        "gain": 0.5
+    },
+    "Action-2": {
+        "cost": 30,
+        "gain": 0.10
+    },
+    "Action-3": {
+        "cost": 50,
+        "gain": 0.15
+    },
+    "Action-4": {
+        "cost": 70,
+        "gain": 0.20
+    },
+    "Action-5": {
+        "cost": 60,
+        "gain": 0.17
+    },
+    "Action-6": {
+        "cost": 80,
+        "gain": 0.25
+    },
+    "Action-7": {
+        "cost": 22,
+        "gain": 0.7
+    },
+    "Action-8": {
+        "cost": 26,
+        "gain": 0.11
+    },
+    "Action-9": {
+        "cost": 48,
+        "gain": 0.13
+    },
+    "Action-10": {
+        "cost": 34,
+        "gain": 0.27
+    },
+    "Action-11": {
+        "cost": 42,
+        "gain": 0.17
+    },
+    "Action-12": {
+        "cost": 110,
+        "gain": 0.9
+    },
+    "Action-13": {
+        "cost": 38,
+        "gain": 0.23
+    },
+    "Action-14": {
+        "cost": 14,
+        "gain": 0.1
+    },
+    "Action-15": {
+        "cost": 18,
+        "gain": 0.3
+    },
+    "Action-16": {
+        "cost": 8,
+        "gain": 0.8
+    },
+    "Action-17": {
+        "cost": 4,
+        "gain": 0.12
+    },
+    "Action-18": {
+        "cost": 10,
+        "gain": 0.14
+    },
+    "Action-19": {
+        "cost": 24,
+        "gain": 0.21
+    },
+    "Action-20": {
+        "cost": 114,
+        "gain": 0.18
+    }
+}

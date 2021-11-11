@@ -49,8 +49,6 @@ class Bag:
         print("Get content can be into")
         filtered_combinaisons = list(filter(lambda x: x[1] <= self.max_weight, combinaisons))
         filtered_combinaisons.sort(key=lambda x: (-x[2], x[1]))
-        print(filtered_combinaisons[:50])
-        # filtered_combinaisons.sort(key=lambda x: x[2], reverse=True)
         return filtered_combinaisons
 
     def get_best_content(self):

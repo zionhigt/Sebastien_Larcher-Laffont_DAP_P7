@@ -5,6 +5,7 @@ class Tree:
         self.data = data
 
     def make_schema(self):
+        # O(2^data.len)
         nodes_count = 2**len(self.data)
         str_schema = bin(nodes_count - 1)[2:]
         schemas = []
